@@ -17,7 +17,7 @@
     ],
     "require": {
         "yiisoft/yii2": "^2.0",
-		"mobiledetect/mobiledetectlib": "^2.8"
+		"mobiledetect/mobiledetectlib": "^4.8"
     },
     "autoload": {
         "psr-4": {
